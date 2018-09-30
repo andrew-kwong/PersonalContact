@@ -1,10 +1,1 @@
-This is the repository for POOP, People Order Our Patties Team.
-
-
-This readme will be updated in the future to provite instructions on compiling, running, and testing.
-
-
-test2
-
-// Testing
-Hello everyone :))
+This is the repository for a simple contact page with login and security properties.
